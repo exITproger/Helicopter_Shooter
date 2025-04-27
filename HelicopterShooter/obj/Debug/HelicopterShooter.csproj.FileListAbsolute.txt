@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\bin\Debug\HelicopterShooter.exe.config
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\bin\Debug\HelicopterShooter.exe
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\bin\Debug\HelicopterShooter.pdb
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.MainMenuForm.resources
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.Properties.Resources.resources
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.exe
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.pdb
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.GameForm.resources
+C:\Users\user\source\repos\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.ShopForm.resources
